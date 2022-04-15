@@ -2,7 +2,7 @@ import React from "react";
 
 const ColorKey = () => {
   return (
-    <div class="colorkey">
+    <div className="colorkey">
       <h4>Color Key</h4>
       <p>Blue = complimentary muscles</p>
       <p>Green = Primary Muscles</p>
