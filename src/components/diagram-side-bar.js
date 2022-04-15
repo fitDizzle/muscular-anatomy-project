@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 export const DiagramSidebar = (props) => {
   let selectedMuscle = props.selected;

@@ -184,4 +184,8 @@ svg path:hover {
     justify-content: center;
     padding: 10px;
   }
+  .muscle-side-bar {
+    border-top: 2px solid rgba(0, 0, 0, 0.185);
+    padding-top: 10px;
+  }
 }
