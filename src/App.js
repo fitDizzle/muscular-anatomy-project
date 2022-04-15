@@ -5,7 +5,7 @@ import Footer from "./components/footer";
 import Header from "./components/header";
 import ImageSelectorBox from "./components/imageSelectorBox";
 import MuscleDiagram from "./components/muscleDiagram";
-import DiagramSidebar from "./diagram-side-bar";
+import DiagramSidebar from "./components/diagram-side-bar";
 
 export const App = () => {
 
