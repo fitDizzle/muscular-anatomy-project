@@ -4,7 +4,7 @@
 }
 
 .App {
-height: 90vh;
+  height: 90vh;
 }
 
 #header {
@@ -46,6 +46,10 @@ height: 90vh;
   align-items: center;
   border-left: 3px solid rgba(0, 0, 0, 0.096);
   padding-left: 10px;
+}
+
+.muscle-side-bar p {
+  color: rgb(46, 46, 255);
 }
 
 .info-box {
@@ -97,8 +101,8 @@ height: 90vh;
 /* Diagram Image Selector Box */
 
 .muscle-title-header {
-color: blue;
-padding-top: 10px;
+  color: blue;
+  padding-top: 10px;
 }
 
 .imageoptionselectorbox {
